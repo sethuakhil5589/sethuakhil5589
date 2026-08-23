@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sethu AKhil
 ===================================================================================================================================
 
-Full-stack developer
+Robotics & Automation Engineer | AMR Systems | Integration, Testing & Deployment
 --------------------
 
 I'm a robotics and automation engineer with hands-on experience supporting Autonomous Mobile Robot (AMR) warehouse systems across deployment, testing, commissioning, go-live, and production support.
