@@ -4,12 +4,97 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack developer
 --------------------
 
-I'm a passionate Full Stack Developer with experience in building dynamic and robust applications using modern technologies. I have a solid background in Java, Spring Boot, PostgreSQL, and microservices architecture. I enjoy creating seamless user experiences with React.js and have a knack for deploying applications to the cloud using AWS. My projects showcase my skills in software development, from creating a quiz application with microservices to developing a student management system and a CRM application. Currently, I'm pursuing a Master’s degree from Wilmington University and have worked on exciting projects, including a feature for group video calls for hospital staff. I'm constantly learning and expanding my skill set to stay updated with the latest industry trends. Let's connect and build something amazing together!
+I'm a robotics and automation engineer with hands-on experience supporting Autonomous Mobile Robot (AMR) warehouse systems across deployment, testing, commissioning, go-live, and production support.
 
-* 🌍  I'm based in New York City
-* ✉️  You can contact me at [sethuakhil5589@gmail.com](mailto:sethuakhil5589@gmail.com)
-* 🧠  I'm learning Kubernetes
+My work focuses on the intersection of robots, software, networking, and warehouse automation — validating robot behavior, troubleshooting system issues, analyzing failures, and supporting reliable operation of automation systems in real-world environments.
 
+🤖 Robotics & Automation
+AMR deployment, commissioning, and production support
+HAT, UAT, SIT, functional, stress, and volume testing
+Robot navigation and task-execution validation
+Pallet pickup/drop-off and staging-location validation
+LiDAR and sensor troubleshooting
+Robot behavior and exception-scenario testing
+Warehouse mapping and configuration validation
+System-level root-cause analysis
+Go-live and hypercare support
+🔧 Systems & Troubleshooting
+Linux / Unix system diagnostics
+Python-based diagnostic and automation tools
+REST API testing with Postman
+Log analysis and failure investigation
+TCP/IP networking
+DHCP and static IP configuration
+Subnets and gateways
+Wi-Fi / Access Point troubleshooting
+Robot-to-fleet connectivity troubleshooting
+Docker
+SQL and data validation
+💻 Software Engineering Background
+
+Before moving deeper into robotics and automation, I worked in software engineering with experience in:
+
+Java
+Spring Boot
+REST APIs
+Hibernate / JPA
+JDBC
+SQL
+Microservices concepts
+JUnit
+Git
+AWS
+
+This software background helps me approach robotics problems from a hardware-software systems perspective, rather than treating the robot, network, application, and backend as isolated components.
+
+🛠 Technical Focus
+
+Robotics & Automation:
+AMRs • Robot Commissioning • Warehouse Automation • Robot Testing • System Integration • HAT • UAT • SIT • Root-Cause Analysis
+
+Programming:
+Python • Java • SQL • Bash
+
+Systems & Tools:
+Linux • Git • Docker • Postman • REST APIs
+
+Networking:
+TCP/IP • DHCP • Static IPs • Subnets • Gateways • Wi-Fi/AP Troubleshooting
+
+Backend:
+Spring Boot • Hibernate/JPA • JDBC • REST APIs
+
+Cloud:
+AWS • GCP Fundamentals
+
+🚀 Featured Software Projects
+Quiz Application
+
+Microservices-based quiz application developed using Java and Spring Boot with separate services for users, questions, quizzes, results, and service registration.
+
+Student Management System
+
+Full-stack application using Spring Boot, React, REST APIs, and database integration for managing student information.
+
+CRM Application
+
+RESTful customer-management application built using Spring Boot and MySQL with CRUD operations and backend API development.
+
+🎓 Education
+
+Master of Science in Information Systems
+Wilmington University — December 2024
+
+Bachelor of Technology in Civil Engineering
+CMR College of Engineering & Technology — May 2022
+
+🎯 Current Direction
+
+I'm focused on opportunities involving:
+
+Robotics Engineering • AMR/AGV Systems • Robotics Testing • Systems Testing • Automation Integration • Robotics Deployment • Commissioning • Field Robotics • Warehouse Automation
+
+I'm also building public robotics projects that demonstrate test automation, diagnostics, robot-system integration, and mobile robot simulation without exposing proprietary production systems or customer data.
 ### Skills
 
 
@@ -20,5 +105,5 @@ I'm a passionate Full Stack Developer with experience in building dynamic and ro
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/sethuakhil" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/sethuakhil5589" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sethuakhil" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://discord.com/users/sethuakhil" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/sethuakhil5589" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sethukatta" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
